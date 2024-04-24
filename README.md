@@ -19,4 +19,4 @@ ctypes
 comtypes
 pycaw
 screen_brightness_control (screen_brightness_control)
-Google Protobuf (google.protobuf.json_format):
+Google Protobuf (google.protobuf.json_format)
