@@ -1,5 +1,5 @@
 # Controlling PC by Hand Gesture
-#Gesture Encodings: Enumerations for representing different hand gestures, such as fist, palm, thumb, etc. These are used to classify and interpret the detected gestures.
+Gesture Encodings: Enumerations for representing different hand gestures, such as fist, palm, thumb, etc. These are used to classify and interpret the detected gestures.
 
 Hand Recognition: The HandRecog class processes hand landmarks obtained from MediaPipe to recognize gestures based on the configuration of fingers and hand positions.
 
