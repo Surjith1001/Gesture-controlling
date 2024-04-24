@@ -20,3 +20,5 @@ comtypes,
 pycaw,
 screen_brightness_control (screen_brightness_control),
 Google Protobuf (google.protobuf.json_format).
+
+<img src="https://github.com/Surjith1001/Gesture-controlling/assets/125909533/f84b1552-4afa-4420-812f-65563719b6e8">
