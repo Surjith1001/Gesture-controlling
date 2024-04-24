@@ -8,3 +8,15 @@ Controller: This class contains methods for executing actions corresponding to d
 Gesture Controller: The main class that orchestrates the entire process. It initializes the video capture, processes the frames, detects hand landmarks, classifies the hands, recognizes gestures, and triggers the corresponding actions.
 
 Main Loop: The script continuously captures video frames from the webcam, processes them for hand tracking and gesture recognition, and updates the system accordingly until the user terminates the program.
+
+libraries Used:
+OpenCV (cv2)
+MediaPipe (mediapipe)
+PyAutoGUI (pyautogui):
+Math (math)
+Enum (enum)
+ctypes
+comtypes
+pycaw
+screen_brightness_control (screen_brightness_control)
+Google Protobuf (google.protobuf.json_format):
